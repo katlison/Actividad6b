@@ -1,0 +1,21 @@
+                                                                    Niveles y tipos de permisos para archivos
+
+
+Los permisos de archivo protegen a los archivos y los directorios para que no se puedan leer ni escribir sin autorización. A menudo tendrá archivos que quiera que otras personas puedan leer pero no cambiar. En otras ocasiones, deberá compartir archivos ejecutables (programas). Los permisos de archivo le permiten controlar el acceso a sus archivos.
+
+Estos son los tipos básicos de acceso de archivos y directorios:
+
+    r - permiso de lectura. Un archivo debe poderse leer si se quiere examinar o copiar. Un directorio debe poderse leer si se quiere listar su contenido.
+
+    w - permiso de escritura. Un archivo debe poder escribirse si desea modificarlo, eliminarlo o renombrarlo. Un directorio debe poder escribirse para agregar o eliminar archivos en él.
+
+    x - permiso de ejecución. Un archivo con permisos ejecutables es aquel que el usuario. puede procesar, como por ejemplo un programa. Un directorio debe ser ejecutable si quiere tener acceso a cualquiera de sus subdirectorios.
+
+Existen tres categorías de usuarios para los que puede establecer permisos:
+
+    Uno mismo - El usuario
+
+    Grupo - Otros usuarios pertenecientes al mismo grupo del usuario (por ejemplo, todos los usuarios con cuenta de acceso). Los grupos los establece y mantiene el administrador de su sistema.
+
+    Otros - Todos los demás 
+

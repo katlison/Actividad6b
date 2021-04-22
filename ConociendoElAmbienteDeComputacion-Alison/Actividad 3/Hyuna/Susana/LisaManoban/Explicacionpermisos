@@ -1,0 +1,24 @@
+Explicación de permisos para carpetas
+ 
+Puede usar los permisos de archivos para controlar quién puede ver y editar sus archivos.
+
+Carpetas
+
+Puede asignar permisos sobre carpetas para el propietario, el grupo y el resto de usuarios. Para obtener una explicación sobre propietarios, grupos y el resto de usuarios, es necesario consultar los detalles sobre permisos de archivos .
+
+Los permisos que puede establecer para una carpeta son diferentes de los que puede establecer para un archivo.
+
+Ninguno
+
+    El usuario ni siquiera será capaz de ver qué archivos están en la carpeta.
+Solo listar archivos
+
+    El usuario será capaz de ver los archivos que hay dentro de una carpeta, pero no será capaz de abrir, crear o eliminar archivos.
+Acceder a archivos
+
+    El usuario será capaz de abrir archivos en la carpeta (suponiendo que tiene permisos para ello en ese archivo en particular), pero puede no ser capaz de crear nuevos archivos o eliminar archivos.
+Crear y eliminar archivos
+
+    El usuario tendrá acceso total a la carpeta, incluyendo abrir, crear y eliminar archivos.
+
+Puede establecer rápidamente los permisos para todos los archivos en la carpeta pulsando Cambiar permisos para archivos contenidos. Use las listas desplegables para ajustar los permisos de archivos contenidos o carpetas y pulse Cambiar. Los permisos se aplican a archivos y carpetas en subcarpetas de cualquier nivel.
